@@ -1,5 +1,6 @@
 In this Project, I have learnt restful apis, connecting database, Creating JWT Tokens for security, below are the functions that i have created in this projext
 
+- *CRUD Operations*
 - Login User
 - Registration of User
 - Authentication
